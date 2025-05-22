@@ -4,11 +4,12 @@
 > [!WARNING]
 > ** Notes critical **
 > 
-> Just open the graphics settings, the FPS problem depends 
-> on how many Hz the device supports. And the choice in 
-> that option is also not to open the device's Hz, but only to 
-> release the FPS which is often only read as 60Hz even 
-> though our device actually supports 120Hz or 90Hz.
+> onliy open the graphics settings, the FPS problem depends on 
+> how many Hz the device supports. And the choice in that option 
+> also does not open the FPS of the device, but only outputs the
+> FPS which often only reads 60Hz even though our device 
+> actually supports 120Hz or 90Hz
+
 
 <div align="center">
   If you like my work, please follow me or star my work on GitHub
