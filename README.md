@@ -1,7 +1,8 @@
 >   ![git text](/Multi/img/IFS.png)
 
 
-> ![DISCLEMOR]
+> ![WARNING]
+** Notes critical **
 > Just open the graphics settings, the FPS problem depends 
 > on how many Hz the device supports. And the choice in 
 > that option is also not to open the device's Hz, but only to 
